@@ -1,8 +1,8 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-# Kodluyoruz Ilk Repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk website
+# Kodluyoruz ilk website
 
-Bu repo [kodluyoruz](https://app.patika.dev/courses/git/odev1) Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi; bir adet index.html barindiriyor
+Bu repo [kodluyoruz](https://app.patika.dev/courses/git/odev1) Front-End Egitiminde olusturdugumuz ilk website. Icerisinde bir adet README dosyasi; bir adet index.html barindiriyor
 ![github](images/19.png)
 ![github](images/20.png)
 ![github](images/21.png)
