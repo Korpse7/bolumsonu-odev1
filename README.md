@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# kodluyoruzilkwebsite
 Kodluyoruz Eğitimi kapsamında açtığım ilk website
 # Kodluyoruz ilk website
 
